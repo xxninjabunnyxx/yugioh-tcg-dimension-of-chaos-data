@@ -1,0 +1,43 @@
+---
+id: 71578874
+name: Performage Mirror Conductor
+type: Pendulum Effect Monster
+frameType: effect_pendulum
+desc: "[ Pendulum Effect ] \n[ Monster Effect ] Once per turn, during either player's
+  turn: You can target 1 face-up monster on the field; switch its current ATK and
+  DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn."
+pend_desc: 'Once per turn: You can target 1 face-up Special Summoned monster on the
+  field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower)
+  until the end of this turn (even if this card leaves the field).'
+monster_desc: 'Once per turn, during either player''s turn: You can target 1 face-up
+  monster on the field; switch its current ATK and DEF, then take 500 damage. This
+  ATK and DEF change lasts until the end of this turn.'
+atk: 600
+def: 1400
+level: 4
+race: Spellcaster
+attribute: LIGHT
+archetype: Performage
+scale: 3
+card_sets:
+- set_name: 2016 Mega-Tin Mega Pack
+  set_code: MP16-EN118
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.23'
+- set_name: Dimension of Chaos
+  set_code: DOCS-EN015
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.07'
+card_images:
+- id: 71578874
+  image_url: https://images.ygoprodeck.com/images/cards/71578874.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/71578874.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/71578874.jpg
+card_prices:
+- cardmarket_price: '0.05'
+  tcgplayer_price: '0.07'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'
